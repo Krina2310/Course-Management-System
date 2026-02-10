@@ -197,17 +197,17 @@ Simply use option 14 to save and option 15 to load your data anytime!
 
 ## 🛠️ Development
 
-**Ishan: Student & Course Management**
+**Student & Course Management**
 - Implement `student_course_manager.py`
 - Handle student/course CRUD operations
 - Manage enrollment
 
-**Krina: Assessment & Grade Management**
+**Assessment & Grade Management**
 - Implement `assessment_grade_manager.py`
 - Create an assessment system
 - Record and manage grades
 
-**Iméne: Attendance & Reporting**
+**Attendance & Reporting**
 - Implement `attendance_reporting.py`
 - Track attendance
 - Build a ranking system
