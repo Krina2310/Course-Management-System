@@ -228,8 +228,6 @@ The system supports various assessment types:
 
 ---
 
-## 👥 Authors
+## 👥 Author
 
-- **Ishan Fernandes** - *Student and Course Management* - [scn01](https://github.com/scn01)
 - **Krina Patel** - *Assessment / Grade Manager* - [krina2310](https://github.com/Krina2310)
-- **Iméne Kadri** - *Attendance Management* - [imenekadri006-cmd](https://github.com/imenekadri006-cmd)
